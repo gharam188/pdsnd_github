@@ -26,6 +26,10 @@ def check_input(input_str,input_type):
             
     return input_read
 
+    def printinfo():
+       print("Hi I am gharam ")
+       print("thank you for give me the chance to take the corse ")
+
 
 def get_filters():
     print('\nHello! Let\'s explore some US bikeshare data!')
