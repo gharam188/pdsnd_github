@@ -6,6 +6,7 @@ def check_input(input_str,input_type):
     while True:
         input_read=input(input_str)
         try:
+        	# create a while loop to ask user selecting a city and month and day
             if input_read in['chicago','Chicago','new_york_city','New_york_city','washington','Washington'] and input_type==1:
                 break
             elif input_read in['january','february','march','april','may','june','all'] and input_type==2:
@@ -24,6 +25,10 @@ def check_input(input_str,input_type):
             print('Sorry Error input')
             
     return input_read
+
+    def printinfo():
+       print("Hi I am gharam ")
+       print("thank you for give me the chance to take the corse ")
 
 
 def get_filters():
