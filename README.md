@@ -21,3 +21,4 @@ https://stackoverflow.com/questions/12719586/how-to-let-python-recognize-both-lo
 https://knowledge.udacity.com/questions/263877
 https://knowledge.udacity.com/questions/780589
 https://knowledge.udacity.com/questions/86491
+Special thanks to Udacity instructors for providing this valuable learning experience and for their support.
