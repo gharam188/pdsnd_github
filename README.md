@@ -15,4 +15,9 @@ I will make use of Python to explore data related to bike share systems for thre
 3-washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+https://stackoverflow.com/questions/12719586/how-to-let-python-recognize-both-lower-and-uppercase-input
+https://knowledge.udacity.com/questions/263877
+https://knowledge.udacity.com/questions/780589
+https://knowledge.udacity.com/questions/86491
